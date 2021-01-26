@@ -1,0 +1,3 @@
+[submodule "jQuery-countdownTimer"]
+	path = jQuery-countdownTimer
+	url = git@github.com:harshen/jQuery-countdownTimer.git
